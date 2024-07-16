@@ -1,2 +1,2 @@
 # git_practice
-Hi test 1
+Hi test 6
