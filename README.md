@@ -1,2 +1,2 @@
 # git_practice
-Hi test 6
+Hi test pull requests
